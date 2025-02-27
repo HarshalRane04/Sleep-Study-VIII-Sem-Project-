@@ -14,3 +14,4 @@
 
  ## Important Links 
 1. Original Papers Github- https://github.com/MousaviSajad/SleepEEGNet
+2. Research Paper - https://arxiv.org/pdf/1903.02108
